@@ -1,5 +1,4 @@
 import 'dart:ui';
-import 'package:apple_shop/bloc/authentication/auth_bloc.dart';
 import 'package:apple_shop/bloc/basket/basket_bloc.dart';
 import 'package:apple_shop/bloc/basket/basket_event.dart';
 import 'package:apple_shop/bloc/category/category_bloc.dart';
@@ -10,7 +9,6 @@ import 'package:apple_shop/di/di.dart';
 import 'package:apple_shop/screens/card_screen.dart';
 import 'package:apple_shop/screens/category_screen.dart';
 import 'package:apple_shop/screens/home_screen.dart';
-import 'package:apple_shop/screens/login_screen.dart';
 import 'package:apple_shop/screens/profile_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
