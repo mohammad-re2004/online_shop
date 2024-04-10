@@ -11,7 +11,6 @@ import 'package:apple_shop/widgets/loading_animation.dart';
 import 'package:apple_shop/widgets/product_item.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:loading_indicator/loading_indicator.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
