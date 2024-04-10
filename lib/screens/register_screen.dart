@@ -9,9 +9,9 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 class RegisterScreen extends StatelessWidget {
   RegisterScreen({super.key});
-  final _usernamecontroller = TextEditingController(text: "qqqqqqqq");
-  final _passwordcontroller = TextEditingController(text: "12345678");
-  final _passwordConfirmcontroller = TextEditingController(text: "12345678");
+  final _usernamecontroller = TextEditingController(text: "");
+  final _passwordcontroller = TextEditingController(text: "");
+  final _passwordConfirmcontroller = TextEditingController(text: "");
 
   @override
   Widget build(BuildContext context) {
