@@ -1,6 +1,8 @@
 # flutter_application_shop
 
 🛒 Online Store App (Flutter + REST API)
+
+
 🔹 Overview
 
 This is a mobile e-commerce application built with Flutter, allowing users to browse products, view details, add items to the cart, and manage purchases.
