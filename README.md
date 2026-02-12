@@ -12,9 +12,9 @@ The app demonstrates real-world Flutter skills, including UI design, state manag
 
 Browse product listings with images, price, and details
 
-Add products to shopping cart and manage quantities
+Add products to shopping cart and manage quantities.
 
-Fetch real-time product data from a RESTful API
+Fetch real-time product data from a RESTful API.
 
 Smooth and responsive UI/UX for Android devices
 
