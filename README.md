@@ -22,7 +22,7 @@ Modular and maintainable code structure
 
 State management using Provider
 
-🔹 Technologies & Tools
+ Technologies & Tools
 
 Flutter & Dart
 
