@@ -13,6 +13,8 @@ The app demonstrates real-world Flutter skills, including UI design, state manag
 
  Features
 
+
+
 Browse product listings with images, price, and details
 
 Add products to shopping cart and manage quantities.
