@@ -17,7 +17,7 @@ Add products to shopping cart and manage quantities.
 
 Fetch real-time product data from a RESTful API.
 
-Smooth and responsive UI/UX for Android devices
+Smooth and responsive UI/UX for Android devices.
 
 Modular and maintainable code structure
 
