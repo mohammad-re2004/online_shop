@@ -1,7 +1,6 @@
 # flutter_application_shop
 
 🛒 Online Store App (Flutter + REST API)
-
  
 Overview
 
